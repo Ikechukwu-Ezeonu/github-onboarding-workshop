@@ -204,8 +204,8 @@
     "status": "upcoming",
     "submissions": [
       "Security-Governance-&-Regulatory-Compliance-part2-Abiola-Habeeb.md",
-      "governance-compliance-pt2-Elu-Emmanuel.md",
       "governance-compliance-pt2-Dare-Ademola.md",
+      "governance-compliance-pt2-Elu-Emmanuel.md",
       "governance-compliance-pt2-Mathias.Eleluwor.md",
       "governance-compliance-pt2-Oduola Ifeoluwa.md",
       "governance-compliance-pt2-george-ukato.md.md",
@@ -219,7 +219,7 @@
     "date": "1 Aug 2026",
     "status": "upcoming",
     "submissions": [
-      "azure-storage-security-Elu-Emmanuel.md"
+      "azure-storage-security-Elu-Emmanuel.md",
       "azure-storage-security-Oduola Ifeoluwa.md",
       "azure-storage-security-michael-onwumere.md"
     ]
