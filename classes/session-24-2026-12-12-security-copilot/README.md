@@ -7,7 +7,7 @@
 | **Date** | Saturday, 12 December 2026 |
 | **Mentor** | Doyinsola Balogun |
 | **Moderator** | Chidimma Ugwu |
-| **Microsoft Learn** | [Get started with Microsoft Security Copilot](https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/) |
+| **Microsoft Learn** | [Get started with Microsoft Security Copilot](https://learn.microsoft.com/en-us/training/paths/deploy-operate-security-copilot/) |
 | **Modules Covered** | Full path |
 
 ---

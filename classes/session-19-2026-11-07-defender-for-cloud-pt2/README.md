@@ -7,7 +7,7 @@
 | **Date** | Saturday, 7 November 2026 |
 | **Mentor** | Oluwafemi Akinfenwa |
 | **Moderator** | Amos Adereti |
-| **Microsoft Learn** | [Secure Azure services with Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/paths/sc-200-secure-azure-services-workloads-microsoft-defender-cloud/) |
+| **Microsoft Learn** | [Secure Azure services with Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/paths/manage-security-posture-defender-cloud/) |
 | **Modules Covered** | Modules 2–4 |
 
 ---

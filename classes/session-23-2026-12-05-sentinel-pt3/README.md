@@ -7,7 +7,7 @@
 | **Date** | Saturday, 5 December 2026 |
 | **Mentor** | Musbau Olagunju |
 | **Moderator** | Amos Adereti |
-| **Microsoft Learn** | [Configure Microsoft Sentinel environments](https://learn.microsoft.com/en-us/training/paths/sc-200-connect-microsoft-sentinel-environments/) |
+| **Microsoft Learn** | [Configure Microsoft Sentinel environments](https://learn.microsoft.com/en-us/training/paths/implement-activity-event-collection-sentinel/) |
 | **Modules Covered** | Modules 5–8 |
 
 ---

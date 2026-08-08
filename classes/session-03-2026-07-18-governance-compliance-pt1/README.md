@@ -7,7 +7,7 @@
 | **Date** | Saturday, 18 July 2026 |
 | **Mentor** | Oluwatosin Ajala |
 | **Moderator** | Susan Onyekachi-Lawal |
-| **Microsoft Learn** | [Describe Microsoft compliance and governance capabilities](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-microsoft-compliance/) |
+| **Microsoft Learn** | [Describe Microsoft compliance and governance capabilities](https://learn.microsoft.com/en-us/training/paths/security-governance-compliance/) |
 | **Modules Covered** | Modules 1–3 |
 
 ---

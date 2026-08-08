@@ -1,0 +1,52 @@
+# My Notes — Idowu Abdulganeey Olawale
+
+
+## Key Concepts I Learned
+
+- Azure Key Vault is a cloud service used to securely store and manage secrets, keys, and certificates.
+- Secrets can include passwords, API keys, connection strings, and other sensitive information that applications need.
+- Cryptographic keys in Key Vault can be used to encrypt and decrypt data, while certificates can be managed for secure        communication.
+- Access to Key Vault resources can be controlled using Microsoft Entra ID and Azure role-based access control (RBAC).
+- Managed identities allow Azure resources to authenticate to Key Vault without storing credentials directly in application code.
+- Key Vault helps organizations apply security principles such as least privilege and secure secret management.
+
+---
+
+## Lab / Hands-On Work
+
+### What I did
+I went through the Microsoft Learn documentation on the basic concepts of Azure Key Vault. I explored how Key Vault is used to manage secrets, keys, and certificates, as well as the different authentication and authorization methods used to control access.
+
+### What happened / Result
+
+I gained a better understanding of how Azure Key Vault helps protect sensitive information and how applications and Azure resources can securely access secrets without exposing them directly in application code.
+### Challenges I faced
+
+Understanding the differences between secrets, keys, and certificates, as well as how authentication and authorization work together when accessing Azure Key Vault.
+
+---
+
+## My Takeaways
+
+- The most valuable lesson for me was understanding the importance of not hardcoding sensitive information such as passwords, API   keys, or connection strings in application code. 
+- Azure Key Vault provides a secure and centralized way to manage these sensitive resources while controlling access through identities and permissions.
+- I also learned how managed identities can simplify secure authentication between Azure resources and Key Vault, reducing the need to manually manage credentials.
+
+---
+
+## Questions I Still Have
+
+- What are the best practices for choosing between Azure RBAC and Key Vault access policies?
+
+-
+
+---
+
+## Resources I Found Useful
+
+- Azure Key Vault basic concepts
+- API Keys
+
+---
+
+*Submitted by: Idowu Abdulganeey Olawale · Cyberwalls*

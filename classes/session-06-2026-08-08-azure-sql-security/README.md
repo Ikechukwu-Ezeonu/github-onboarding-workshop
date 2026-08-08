@@ -7,7 +7,7 @@
 | **Date** | Saturday, 8 August 2026 |
 | **Mentor** | Gabriel Mekuleyi |
 | **Moderator** | Remilekun Olakunle |
-| **Microsoft Learn** | [Implement Azure SQL Database security](https://learn.microsoft.com/en-us/training/paths/implement-sql-database-security/) |
+| **Microsoft Learn** | [Implement Azure SQL Database security](https://learn.microsoft.com/en-us/training/paths/implement-azure-sql-database-security/) |
 | **Modules Covered** | Full path |
 
 ---
