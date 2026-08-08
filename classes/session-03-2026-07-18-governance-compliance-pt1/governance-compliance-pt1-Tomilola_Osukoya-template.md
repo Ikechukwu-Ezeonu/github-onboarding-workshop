@@ -22,17 +22,6 @@
 ### What happened / Result
  - No lab sessions
 
-### Challenges I faced
-
-
----
-
-## My Takeaways
-
-<!-- What was most valuable to you personally from this session? -->
-
-
----
 
 ## Questions I Still Have
 
