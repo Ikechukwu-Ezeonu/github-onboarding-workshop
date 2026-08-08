@@ -1,21 +1,14 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
+# My Notes — [Tomilola Osukoya]
 ---
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+-Security governance establishes the policies, processes, roles, and responsibilities needed to manage an organisation's security posture.
+-Regulatory compliance ensures that an organisation follows applicable laws, regulations, standards, and internal security requirements.
+-Security policies guide how organisational resources, data, identities, and systems should be protected.
+-Governance helps organisations identify security risks, define appropriate controls, and continuously monitor compliance.
 
 ---
 
@@ -27,7 +20,7 @@
 
 
 ### What happened / Result
-
+ - No lab sessions
 
 ### Challenges I faced
 
@@ -45,7 +38,7 @@
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+-none
 -
 
 ---
@@ -54,8 +47,8 @@
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
+-Microsoft Learn
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Tomilola Osukoya] · [Tomilola]*
