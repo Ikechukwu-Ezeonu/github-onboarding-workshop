@@ -1,21 +1,17 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
+# My Notes — [Tomilola Osukoya]
+>
 ---
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+-Regulatory compliance ensures that an organisation follows applicable laws, regulations, standards, and internal security requirements.
+-Security policies guide how organisational resources, data, identities, and systems should be protected.
+-Governance helps organisations identify security risks, define appropriate controls, and continuously monitor compliance.
+-Regulatory requirements can vary depending on the organisation's industry, location, data handled, and applicable regulations.
+-Security controls should be regularly assessed to identify gaps and ensure that security requirements continue to be met.
+-Auditing, monitoring, reporting, and documentation are important components of demonstrating compliance.
 
 ---
 
@@ -24,20 +20,31 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
+No hands-on due to network issues, but the information below was reinforced
+-Explored the concepts of security governance and regulatory compliance. 
+-Learned how compliance requirements can influence the design and operation of cloud environments.
+-Studied the importance of monitoring, auditing, and documenting security activities.
+-Considered how security controls can be evaluated to identify compliance gaps.
 
 
 ### What happened / Result
 
+-Developed a better understanding of how security governance supports an organisation's overall security strategy.
+-Learned that compliance is an ongoing process rather than a one-time activity.
+-Understood the importance of continuously monitoring security controls and maintaining appropriate documentation.
+Learned how governance and compliance requirements can help organisations manage security risks more effectively.
+
 
 ### Challenges I faced
 
+-Bad network services did not allow us to carry out the demo
 
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
-
+-Governance establishes the policies, responsibilities, and processes used to manage security, while compliance ensures that those practices satisfy applicable regulatory and organisational requirements. I also learned that organisations need continuous monitoring, auditing, documentation, and assessment to maintain their security and compliance posture.
 
 ---
 
@@ -45,7 +52,7 @@
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+-NONE
 -
 
 ---
@@ -54,8 +61,8 @@
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
+-Microsoft learn
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Tomilola Osukoya] · [Tomilola]*
