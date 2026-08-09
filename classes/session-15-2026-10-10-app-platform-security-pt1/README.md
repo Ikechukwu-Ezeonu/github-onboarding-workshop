@@ -7,7 +7,7 @@
 | **Date** | Saturday, 10 October 2026 |
 | **Mentor** | Oyimafu Emmanuel |
 | **Moderator** | Chidiebere Ihejirika |
-| **Microsoft Learn** | [Implement app security in Azure](https://learn.microsoft.com/en-us/training/paths/implement-app-security/) |
+| **Microsoft Learn** | [Implement app security in Azure](https://learn.microsoft.com/en-us/training/paths/secure-application-platform-services/) |
 | **Modules Covered** | Modules 1–2 |
 
 ---

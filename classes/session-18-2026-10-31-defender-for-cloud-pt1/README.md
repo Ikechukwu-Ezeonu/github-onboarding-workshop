@@ -7,7 +7,7 @@
 | **Date** | Saturday, 31 October 2026 |
 | **Mentor** | Oluwafemi Akinfenwa |
 | **Moderator** | Chidimma Ugwu |
-| **Microsoft Learn** | [Secure Azure services with Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/paths/sc-200-secure-azure-services-workloads-microsoft-defender-cloud/) |
+| **Microsoft Learn** | [Secure Azure services with Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/paths/manage-security-posture-defender-cloud/) |
 | **Modules Covered** | Module 1 |
 
 ---

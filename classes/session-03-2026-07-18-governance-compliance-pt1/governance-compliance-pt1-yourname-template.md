@@ -1,61 +1,47 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — [TIMOTHY ABRAHAM}
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
 
----
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
--
+-Cloud governance is the framework of policies, processes, roles, and technical controls that ensures cloud resources are deployed and managed securely, consistently, and in compliance with organizational and regulatory requirements.
+-A policy assignment involves selecting the policy definition,Choosing the scope,Management Group,Subscription,resource Group,Configuring parameters,Creating the assignment andReviewing compliance results.
+
+some Common Security Policies such asrequired resource tags,restrict deployment regions,require encryption,require HTTPS,require private endpoints,deny public IP addresses,require Microsoft Defender for Cloud plans,require diagnostic loggingand restrict allowed virtual machine sizes
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+<!--I tried to activate the policy in the azure environment
+
 
 ### What I did
 
+I launched the appliocation and enforced the policy based on the organisation policy
 
-### What happened / Result
 
 
 ### Challenges I faced
 
-
----
-
-## My Takeaways
+It is a strugggle understanding the process with being actively involved in a work related to it.I also had network challenges navigating the pprtal.
 
 <!-- What was most valuable to you personally from this session? -->
 
+How to apply and enforce compliance on Azure environment
 
----
+Questions I Still Have
 
-## Questions I Still Have
+<!-- How do I get a lab envirnoment to practice more
+# Resources I Found Useful
+Microsoft learn
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
-
----
-
-## Resources I Found Useful
-
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
 -
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [TIMOTHY ABRAHAM · [abtim86-cloud]*

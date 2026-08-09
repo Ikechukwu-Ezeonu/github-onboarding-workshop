@@ -7,7 +7,7 @@
 | **Date** | Saturday, 29 August 2026 |
 | **Mentor** | Emmanuel Itoje |
 | **Moderator** | Remilekun Olakunle |
-| **Microsoft Learn** | [Secure AI workloads in Azure](https://learn.microsoft.com/en-us/training/paths/secure-ai-workloads-azure/) |
+| **Microsoft Learn** | [Secure AI workloads in Azure](https://learn.microsoft.com/en-us/training/paths/implement-ai-security/) |
 | **Modules Covered** | Modules 1–3 |
 
 ---

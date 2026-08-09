@@ -7,7 +7,7 @@
 | **Date** | Saturday, 5 September 2026 |
 | **Mentor** | Susan Onyekachi-Lawal |
 | **Moderator** | Amos Adereti |
-| **Microsoft Learn** | [Secure AI workloads in Azure](https://learn.microsoft.com/en-us/training/paths/secure-ai-workloads-azure/) |
+| **Microsoft Learn** | [Secure AI workloads in Azure](https://learn.microsoft.com/en-us/training/paths/implement-network-security-controls-azure/) |
 | **Modules Covered** | Modules 4–6 |
 
 ---

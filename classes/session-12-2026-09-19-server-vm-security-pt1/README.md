@@ -7,7 +7,7 @@
 | **Date** | Saturday, 19 September 2026 |
 | **Mentor** | Imoh Etuk |
 | **Moderator** | Chidimma Ugwu |
-| **Microsoft Learn** | [Implement host security in Azure](https://learn.microsoft.com/en-us/training/paths/implement-host-security/) |
+| **Microsoft Learn** | [Implement host security in Azure](https://learn.microsoft.com/en-us/training/paths/server-vm-security/) |
 | **Modules Covered** | Modules 1–3 |
 
 ---

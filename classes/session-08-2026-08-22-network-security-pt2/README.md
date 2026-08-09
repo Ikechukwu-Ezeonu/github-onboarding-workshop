@@ -7,7 +7,7 @@
 | **Date** | Saturday, 22 August 2026 |
 | **Mentor** | Chukwuemeka Dumebi |
 | **Moderator** | Remilekun Olakunle |
-| **Microsoft Learn** | [Implement network security in Azure](https://learn.microsoft.com/en-us/training/paths/implement-network-security/) |
+| **Microsoft Learn** | [Implement network security in Azure](https://learn.microsoft.com/en-us/training/paths/implement-network-security-controls-azure/) |
 | **Modules Covered** | Modules 3–4 |
 
 ---

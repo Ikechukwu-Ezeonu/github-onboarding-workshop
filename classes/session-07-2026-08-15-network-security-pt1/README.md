@@ -7,7 +7,7 @@
 | **Date** | Saturday, 15 August 2026 |
 | **Mentor** | Chukwuemeka Dumebi |
 | **Moderator** | Amos Adereti |
-| **Microsoft Learn** | [Implement network security in Azure](https://learn.microsoft.com/en-us/training/paths/implement-network-security/) |
+| **Microsoft Learn** | [Implement network security in Azure](https://learn.microsoft.com/en-us/training/paths/implement-network-security-controls-azure/) |
 | **Modules Covered** | Modules 1–2 |
 
 ---

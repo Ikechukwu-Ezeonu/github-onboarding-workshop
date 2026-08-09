@@ -7,7 +7,7 @@
 | **Date** | Saturday, 12 September 2026 |
 | **Mentor** | Faruq Damilola Bakare |
 | **Moderator** | Remilekun Olakunle |
-| **Microsoft Learn** | [Secure AI workloads in Azure](https://learn.microsoft.com/en-us/training/paths/secure-ai-workloads-azure/) |
+| **Microsoft Learn** | [Secure AI workloads in Azure](https://learn.microsoft.com/en-us/training/paths/implement-ai-security/) |
 | **Modules Covered** | Modules 7–9 |
 
 ---
