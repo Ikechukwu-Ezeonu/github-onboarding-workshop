@@ -230,7 +230,9 @@
     "title": "Azure SQL Security",
     "date": "8 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "azure-sql-security-Elu-Emmanuel.md"
+    ]
   },
   {
     "num": "07",
