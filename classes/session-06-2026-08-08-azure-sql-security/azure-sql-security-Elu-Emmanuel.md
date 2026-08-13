@@ -27,8 +27,6 @@
 <img width="767" height="783" alt="image" src="https://github.com/user-attachments/assets/73fc950f-a912-4a4e-b5a3-5a6c076641da" />
 - Enabled Azure SQL auditing to track events and write them to a specified storage account or log analytic workspace.
   <img width="994" height="744" alt="image" src="https://github.com/user-attachments/assets/81d05f16-c7c5-4f44-a7ae-37f19c77eaec" />
-
-  
   
 ### What happened / Result
 - Database deployment was successful with the associated database server created.
