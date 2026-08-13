@@ -27,7 +27,7 @@
 ### What I did
 
 - Create an SQL database
-
+<img width="1181" height="769" alt="Screenshot 2026-08-12 123742" src="https://github.com/user-attachments/assets/277e13d4-bc7c-4640-8adc-bd7cc3eb0395" />
 - 
 
 ### What happened / Result
@@ -58,9 +58,9 @@
 ## Resources I Found Useful
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
+- https://www.youtube.com/watch?v=MLtnRwB4Wyk
+- https://learn.microsoft.com/en-us/training/paths/implement-azure-sql-database-security/
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Elu Uchenna Emmanuel · eluemma*
