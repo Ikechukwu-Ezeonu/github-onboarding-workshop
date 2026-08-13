@@ -1,12 +1,5 @@
 # My Notes — Elu Uchenna Emmanuel
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
 ---
 
 ## Key Concepts I Learned
@@ -42,10 +35,9 @@
   <img width="1594" height="583" alt="image" src="https://github.com/user-attachments/assets/f478b76f-09c1-4e75-b94a-33cbd13794ac" />
 - The private endpoint was successfully created
   <img width="1371" height="605" alt="image" src="https://github.com/user-attachments/assets/639e2616-35d1-4957-870e-70c69df777d9" />
-- After enabling the 
-
-  
-
+- After enabling the Azure SQL auditing and selecting the storage account, an sql audit log folder for the database server was created to log all audit events 
+  <img width="1411" height="386" alt="Screenshot 2026-08-13 153611" src="https://github.com/user-attachments/assets/14d0b4bf-e6d5-4469-a775-b718091d2fa8" />
+<img width="1191" height="448" alt="image" src="https://github.com/user-attachments/assets/cccb2391-dfe6-4ea1-bd14-2edc38430a42" />
 
 ### Challenges I faced
 - Yet to understand the essence of running the sql queries
@@ -65,7 +57,6 @@
 <!-- Anything you want to follow up on or ask the mentor -->
 
 - How can I improve in writing sql queries? 
--
 
 ---
 
