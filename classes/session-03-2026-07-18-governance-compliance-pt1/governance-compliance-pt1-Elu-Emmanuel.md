@@ -1,14 +1,14 @@
-# My Notes — Elu Uchenna Emmanuel
+# My Notes — Edache Ada Precious
 
 ---
 
 ## Key Concepts I Learned
 
 <!-- Write the main ideas covered in today's session -->
-
-- Enforcing security governance and regulatory compliance 
-- How to enforce governance using Azure policy, resource lock and defender for clouds
-- Evaluation of regulatory compliance, protect backup data
+* Azure Policy helps organizations enforce security and compliance standards automatically.
+* Resource Locks protect important Azure resources from accidental deletion or modification.
+* Microsoft Defender for Cloud continuously monitors resources and identifies security risks.
+* Regulatory compliance helps organizations meet industry and legal security requirements.
 
 ---
 
@@ -17,20 +17,22 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
+* Created and assigned an Azure Policy to enforce security rules.
+* Tested the policy by deploying Azure Storage Accounts with different configurations.
+* Applied a Resource Lock to understand how it protects Azure resources.
+* Reviewed compliance results in Azure to verify whether resources met the policy requirements.
 
-- Enforce governance with Azure policy and resource locks
-- Created a storage resource to test the policy enforced
-- Assign policy to deny public access to resources to prevent any deployment of resources with public access enabled
 
 ### What happened / Result
 
-- New storage deployment with public access enabled, was denied
-- Deployments with no public access enabled was allowed
-- Existing resources was not affected
+* Deployments that violated the assigned policy were blocked.
+* Resources configured according to the policy deployed successfully.
+* Resource Locks prevented accidental deletion or modification of protected resources.
+* Compliance reports clearly showed which resources were compliant and which were not.
 
 ### Challenges I faced
-
-- None
+* Understanding the difference between Azure Policy and Resource Locks.
+* Learning how policy assignments affect resources at different scopes.
 
 ---
 
@@ -38,15 +40,17 @@
 
 <!-- What was most valuable to you personally from this session? -->
 
-- Existing resources was not affected after enforcing the policy but when altered or updated the policy takes effect
-- Governance of azure resources using policy and resource locks help the security administrator manage and prevent deployment of noncompliant resources and prevent accidental deletion of resource.
+* Azure Policy is an effective way to maintain security standards across cloud resources.
+* Resource Locks provide an additional layer of protection against accidental changes.
+* Compliance monitoring makes it easier to identify and correct security issues before they become serious.
+* Cloud governance is essential for maintaining a secure and well-managed Azure environment.
 ---
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
-
-- How can one remediate a resource to ensure the policy is applied
+* How can existing non-compliant resources be automatically remediated after a policy is assigned?
+* What are the best practices for applying Azure Policies in large organizations?
 
 ---
 
@@ -59,4 +63,4 @@
 
 ---
 
-*Submitted by: Elu Uchenna Emmanuel · eluemma*
+*Submitted by: Edache Ada Precious *
