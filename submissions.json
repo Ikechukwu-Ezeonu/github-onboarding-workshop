@@ -254,7 +254,9 @@
     "title": "Azure SQL Security",
     "date": "8 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "azure-sql-security-michael-onwumere.md"
+    ]
   },
   {
     "num": "07",
