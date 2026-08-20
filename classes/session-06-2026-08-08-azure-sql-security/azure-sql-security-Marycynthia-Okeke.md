@@ -1,4 +1,4 @@
-# My Notes — Azure SQL Database Security & Threat Detection
+# My Notes — Marycynthia Okeke
 
 ## Key Concepts I Learned
 
@@ -64,7 +64,6 @@
 
 - **Microsoft Learn:** Microsoft Entra service principals with Azure SQL
 
-
 ---
 
-*Submitted by: Marycynthia Okeke*
+*Submitted by: Marycynthia Okeke* 
