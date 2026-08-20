@@ -30,7 +30,7 @@ I built a segmented lab network (`AZ500LAB07`) inside resource group `NSGClass-r
 
 1. **Created two Application Security Groups** — `myAsgMgmtServer` and `myAsgWebserver` — plus the virtual network, all inside `NSGClass-rg`.
 
-   ![ASG and VNet deployment succeeded](images/WhatsApp_Image_2026-08-20_at_1_06_09_PM.jpeg)
+   ![ASG and VNet deployment succeeded](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%201.06.09%20PM.jpeg)
 
 2. **Created and configured an NSG** (`myNSG`) with inbound rules pointed at the ASGs instead of raw IPs:
    - `Allow-RDP` (3389) → `myAsgMgmtServer`
