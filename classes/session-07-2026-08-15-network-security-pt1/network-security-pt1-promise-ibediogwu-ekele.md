@@ -38,7 +38,7 @@ I built a segmented lab network (`AZ500LAB07`) inside resource group `NSGClass-r
    - `Allow-HTTPS` (443) → `myAsgWebserver`
    - `Allow-HTTP` (80) → `myAsgWebserver`
 
-   ![myNSG inbound security rules](https://github.com/promibe/assets/blob/main/WhatsApp_Image_2026-08-20_at_1_23_06_PM.jpeg)
+   ![myNSG inbound security rules](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%201.23.06%20PM.jpeg)
 
 3. **Deployed the two VMs** (`myvmmgt`, `myvmweb`) into the resource group along with their NICs, disks, and public IPs.
 
