@@ -42,44 +42,44 @@ I built a segmented lab network (`AZ500LAB07`) inside resource group `NSGClass-r
 
 3. **Deployed the two VMs** (`myvmmgt`, `myvmweb`) into the resource group along with their NICs, disks, and public IPs.
 
-   ![Resource group with deployed VMs](images/WhatsApp_Image_2026-08-20_at_2_31_22_PM.jpeg)
-   ![Full resource listing](images/WhatsApp_Image_2026-08-20_at_3_16_40_PM.jpeg)
+   ![Resource group with deployed VMs](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%202.31.22%20PM.jpeg)
+   ![Full resource listing](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%203.16.40%20PM.jpeg)
 
 4. **Associated each VM's NIC with its ASG** — `myvmmgt` → `myAsgMgmtServer`, `myvmweb` → `myAsgWebServer`.
 
-   ![myvmmgt associated with myAsgMgmtServer](images/WhatsApp_Image_2026-08-20_at_3_29_51_PM__1_.jpeg)
-   ![myvmweb associated with myAsgWebServer](images/WhatsApp_Image_2026-08-20_at_3_29_51_PM.jpeg)
+   ![myvmmgt associated with myAsgMgmtServer](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%203.29.51%20PM%20(1).jpeg)
+   ![myvmweb associated with myAsgWebServer](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%203.29.51%20PM.jpeg)
 
 5. **Tested RDP connectivity** against both VMs to confirm the rules were actually being enforced.
 
 6. **Installed IIS on `myvmweb`** using the Run Command feature (`RunPowerShellScript`), then browsed to its public IP over HTTP to confirm the web server was live.
 
-   ![Run Command installing IIS](images/WhatsApp_Image_2026-08-20_at_4_07_56_PM.jpeg)
-   ![IIS default page reachable over HTTP](images/WhatsApp_Image_2026-08-20_at_4_32_55_PM.jpeg)
+   ![Run Command installing IIS](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%204.07.56%20PM.jpeg)
+   ![IIS default page reachable over HTTP](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%204.32.55%20PM.jpeg)
 
 7. Separately, I provisioned an **Azure DDoS Protection Plan** (`MyDdosProtectionPlan`) and a linked VNet (`MyVirtualNetwork`) inside resource group `LabM06-rg`, and set up a public IP (`MyPublicIPAddress`) as the protected endpoint, with metrics and alerts configured for monitoring.
 
-   ![LabM06-rg with DDoS plan and VNet](images/WhatsApp_Image_2026-08-20_at_10_26_48_PM.jpeg)
-   ![MyPublicIPAddress overview](images/WhatsApp_Image_2026-08-20_at_10_33_22_PM.jpeg)
+   ![LabM06-rg with DDoS plan and VNet](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%2010.26.48%20PM.jpeg)
+   ![MyPublicIPAddress overview](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%2010.33.22%20PM.jpeg)
 
 ### What happened / Result
 
 - RDP to **`myvmmgt`** (Management ASG) **succeeded** — the Server Manager dashboard loaded normally.
 
-  ![Successful RDP to myvmmgt](images/WhatsApp_Image_2026-08-20_at_3_54_00_PM.jpeg)
+  ![Successful RDP to myvmmgt](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%203.54.00%20PM.jpeg)
 
 - RDP to **`myvmweb`** (Web ASG) **failed as expected**, with a "Remote Desktop can't connect" error — confirming the `Deny-RDP` rule was correctly enforced.
 
-  ![Failed RDP to myvmweb](images/WhatsApp_Image_2026-08-20_at_3_55_50_PM.jpeg)
+  ![Failed RDP to myvmweb](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%203.55.50%20PM.jpeg)
 
 - The IIS installation completed successfully (Common HTTP Features, Default Document, etc.), and the default IIS "Welcome" page loaded correctly in the browser at `102.37.107.19` — confirming HTTP/HTTPS access was allowed to the web server while RDP remained blocked.
 
-  ![IIS welcome page](images/WhatsApp_Image_2026-08-20_at_4_32_55_PM.jpeg)
+  ![IIS welcome page](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%204.32.55%20PM.jpeg)
 
 - For the DDoS Protection Plan, the **metrics dashboard** ("Max Inbound packets dropped DDoS") stayed flat at 0/s, and the **alerts blade** showed no alerts fired — meaning the resource only ever received normal, non-attack traffic during the exercise.
 
-  ![DDoS metrics chart](images/WhatsApp_Image_2026-08-20_at_10_37_28_PM.jpeg)
-  ![No DDoS alerts found](images/WhatsApp_Image_2026-08-20_at_11_03_17_PM.jpeg)
+  ![DDoS metrics chart](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%2010.37.28%20PM.jpeg)
+  ![No DDoS alerts found](https://github.com/promibe/assets/blob/main/WhatsApp%20Image%202026-08-20%20at%2011.03.17%20PM.jpeg)
 
 Overall, this confirmed that ASGs + a single NSG successfully enforced role-based segmentation: the management server was reachable only by RDP, and the web server was reachable only by HTTP/HTTPS — exactly matching the intended architecture.
 
@@ -118,4 +118,4 @@ The most valuable part of this session was seeing, hands-on, that security isn't
 
 ---
 
-*Submitted by: Promise Ibediogwu Ekele · [Your GitHub username]*
+*Submitted by: Promise Ibediogwu Ekele · https://github.com/promibe*
