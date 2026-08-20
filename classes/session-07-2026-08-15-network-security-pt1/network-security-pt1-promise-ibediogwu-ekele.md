@@ -25,7 +25,7 @@
 
 I built a segmented lab network (`AZ500LAB07`) inside resource group `NSGClass-rg`, made up of one VNet (`myVirtualNetwork`, `10.0.0.0/16`) with a `default` subnet, hosting two VMs: `myVmWeb` (`10.0.0.4`) and `myVMMgmt` (`10.0.0.5`).
 
-![Lab architecture diagram]([images](https:/github.com/promibe/assets/blob/main/WhatsApp_Image_2026-08-20_at_1_03_39_PM.jpeg)
+![Lab architecture diagram](https://github.com/promibe/assets/blob/main/WhatsApp_Image_2026-08-20_at_1_03_39_PM.jpeg)
 *Target architecture: VNet, subnet, NSG, ASGs, and the two VMs with their intended traffic paths.*
 
 1. **Created two Application Security Groups** — `myAsgMgmtServer` and `myAsgWebserver` — plus the virtual network, all inside `NSGClass-rg`.
@@ -38,7 +38,7 @@ I built a segmented lab network (`AZ500LAB07`) inside resource group `NSGClass-r
    - `Allow-HTTPS` (443) → `myAsgWebserver`
    - `Allow-HTTP` (80) → `myAsgWebserver`
 
-   ![myNSG inbound security rules](images/WhatsApp_Image_2026-08-20_at_1_23_06_PM.jpeg)
+   ![myNSG inbound security rules](https://github.com/promibe/assets/blob/main/WhatsApp_Image_2026-08-20_at_1_23_06_PM.jpeg)
 
 3. **Deployed the two VMs** (`myvmmgt`, `myvmweb`) into the resource group along with their NICs, disks, and public IPs.
 
