@@ -4,8 +4,6 @@
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
-
 - **Zero Trust Architecture** is a security principle, not a product — built on three pillars: *Always Verify*, *Assume Breach*, and *Principle of Least Privilege*. It shapes how secure environments are designed rather than being a tool you install.
 - **Network segmentation** matters as much as perimeter defense. Dividing a network into smaller, isolated subnets/groups reduces the attack surface and prevents lateral movement if one resource is compromised.
 - **NSGs vs. ASGs**: NSGs control traffic at the subnet/NIC level using IP and port rules, while ASGs let you group VMs logically by role (e.g., "Web Server") so rules can target the *application group* instead of hardcoded IP addresses — making policies scale much better.
@@ -18,8 +16,6 @@
 ---
 
 ## Lab / Hands-On Work
-
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
 
@@ -91,15 +87,11 @@ I was able to configure Azure DDoS Protection and successfully deploy and expose
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
 The most valuable part of this session was seeing, hands-on, that security isn't just a perimeter wall — it's internal segmentation done well. Using ASGs to let rules "follow the workload" instead of chasing IP addresses made the whole NSG configuration far cleaner and easier to reason about. Verifying the RDP allow/deny behavior with real connection attempts (rather than just trusting the rule config) was also a good habit to build — it's the difference between assuming a rule works and actually proving it. On the DDoS side, the biggest lesson wasn't technical configuration at all — it was realizing that a load test and a DDoS attack are not the same thing, and that "trying harder" to force a mitigation event would have been the wrong move in a live lab environment.
 
 ---
 
 ## Questions I Still Have
-
-<!-- Anything you want to follow up on or ask the mentor -->
 
 - What is the safe, Microsoft-sanctioned way to actually simulate a DDoS attack against a test resource (approved tools, notification process, etc.)?
 - In a real enterprise setup, how do NSGs, Azure Firewall, and DDoS Network Protection get layered together without creating conflicting or redundant rules?
@@ -108,8 +100,6 @@ The most valuable part of this session was seeing, hands-on, that security isn't
 ---
 
 ## Resources I Found Useful
-
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
 - [Microsoft cloud security benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/) — reference framework for Azure security controls, recommended by the facilitator
 - [IP flow verify overview — Azure Network Watcher](https://learn.microsoft.com/en-us/azure/network-watcher/ip-flow-verify-overview) — how to check if traffic is allowed/denied by NSG rules
