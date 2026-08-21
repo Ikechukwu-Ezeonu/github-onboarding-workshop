@@ -244,6 +244,7 @@
     "date": "1 Aug 2026",
     "status": "upcoming",
     "submissions": [
+      "azure-storage-security-Abiola-Habeeb.md",
       "azure-storage-security-Elu-Emmanuel.md",
       "azure-storage-security-Oduola Ifeoluwa.md",
       "azure-storage-security-george-ukato.md.md",
@@ -258,6 +259,7 @@
     "date": "8 Aug 2026",
     "status": "upcoming",
     "submissions": [
+      "azure-sql-security-Abiola-Habeeb.md",
       "azure-sql-security-michael-onwumere.md",
       "azure-sql-security-promise-ibediogwu-ekele.md"
     ]
