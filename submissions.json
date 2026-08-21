@@ -205,6 +205,7 @@
       "governance-compliance-pt1-Idowu-Abdulganeey-template.md",
       "governance-compliance-pt1-Mathias Eleluwor-template.md",
       "governance-compliance-pt1-Okeke-Marycynthia.md",
+      "governance-compliance-pt1-Tomilola_Osukoya-template.md",
       "governance-compliance-pt1-eneh-kosisochukwu.md",
       "governance-compliance-pt1-george-ukato.md.md",
       "governance-compliance-pt1-ikechukwu-ezeonu.md",
@@ -229,6 +230,7 @@
       "governance-compliance-pt2-Marycynthia Okeke-template.md",
       "governance-compliance-pt2-Mathias.Eleluwor.md",
       "governance-compliance-pt2-Oduola Ifeoluwa.md",
+      "governance-compliance-pt2-Tomilola_Osukoya-template.md",
       "governance-compliance-pt2-george-ukato.md.md",
       "governance-compliance-pt2-ikechukwu-ezeonu.md",
       "governance-compliance-pt2-michael-onwumere.md",
@@ -246,6 +248,8 @@
       "azure-storage-security-Oduola Ifeoluwa.md",
       "azure-storage-security-george-ukato.md.md",
       "azure-storage-security-michael-onwumere.md"
+      "azure-storage-security-michael-onwumere.md",
+      "azure-storage-security-promise-ibediogwu-ekele.md"
     ]
   },
   {
@@ -254,7 +258,10 @@
     "title": "Azure SQL Security",
     "date": "8 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "azure-sql-security-michael-onwumere.md",
+      "azure-sql-security-promise-ibediogwu-ekele.md"
+    ]
   },
   {
     "num": "07",
@@ -262,7 +269,10 @@
     "title": "Network Security Pt1",
     "date": "15 Aug 2026",
     "status": "upcoming",
-    "submissions": []
+    "submissions": [
+      "network-security-pt1-Oduola Ifeoluwa.md",
+      "network-security-pt1-promise-ibediogwu-ekele.md"
+    ]
   },
   {
     "num": "08",
