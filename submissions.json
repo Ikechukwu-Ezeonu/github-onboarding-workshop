@@ -46,6 +46,7 @@
       "pre-bootcamp-onboarding-Mathias-Eleluwor.md",
       "pre-bootcamp-onboarding-Mercy Igba.md",
       "pre-bootcamp-onboarding-Michael Onwumere.md",
+      "pre-bootcamp-onboarding-Michael-Iseyen.md Assignment.md",
       "pre-bootcamp-onboarding-Mishael-Effiong.md",
       "pre-bootcamp-onboarding-Muhammed-Opeyemi-Shakiru.md",
       "pre-bootcamp-onboarding-OMOTOLANI-ABIKE-AWE.md",
@@ -86,7 +87,8 @@
       "pre-bootcamp-onboarding-osamuyi-alarezomo.md",
       "pre-bootcamp-onboarding-oyindamola-olujide.md",
       "pre-bootcamp-onboarding-promise-ibediogwu-ekele.md",
-      "pre-bootcamp-onboarding-ugonma-ajie.md"
+      "pre-bootcamp-onboarding-ugonma-ajie.md",
+      "pre-bootcamp-onboarding-yourname-Chinenye-Joan-Okoro.md"
     ]
   },
   {
@@ -145,6 +147,7 @@
       "microsoft-entra-oroma-unufe.md",
       "microsoft-entra-osamuyi-alarezomo.md",
       "microsoft-entra-promise-ibediogwu-ekele.md",
+      "microsoft-entra-zainab-alabi.md",
       "pre-bootcamp-onboarding-Muhammed-Opeyemi-Shakiru.md",
       "seulibhowmik047-cyber.md"
     ]
@@ -162,8 +165,10 @@
       "azure-key-vault- Oduola-Ifeoluwa.md",
       "azure-key-vault-Abiola-Habeeb.md",
       "azure-key-vault-Baba-Bata-template.md",
+      "azure-key-vault-Bernard-Amoako.md",
       "azure-key-vault-David-Adama-template.md",
       "azure-key-vault-Elu-Emmanuel.md",
+      "azure-key-vault-Emmanuel-Adebayo.md",
       "azure-key-vault-Folaranmi-Abolade-Felix.md",
       "azure-key-vault-George- Ukato.md",
       "azure-key-vault-Marycynthia Okeke.md",
@@ -174,11 +179,13 @@
       "azure-key-vault-Tomilola-Osukoya.md",
       "azure-key-vault-adeola-ajiboso.md",
       "azure-key-vault-berna-namulyowa.md",
+      "azure-key-vault-chinenye-joan-okoro.md",
       "azure-key-vault-eneh-kosisochukwu-template.md",
       "azure-key-vault-ikechukwu-ezeonu.md",
       "azure-key-vault-iniobong-johnson.md",
       "azure-key-vault-michael-onwumere.md",
-      "azure-key-vault-promise-ibediogwu-ekele.md"
+      "azure-key-vault-promise-ibediogwu-ekele.md",
+      "azure-key-vault-taiwo-durodola-tunde.md"
     ]
   },
   {
@@ -190,16 +197,22 @@
     "submissions": [
       "governance-compliance-Abiola-Habeeb.md",
       "governance-compliance-pt1-Dare-Ademola.md",
+      "governance-compliance-pt1-EMUNEFE SATURDAY.md",
       "governance-compliance-pt1-Elu-Emmanuel.md",
+      "governance-compliance-pt1-Emmanuel-Adebayo.md",
       "governance-compliance-pt1-Folaranmi-Abolade-Felix.md",
       "governance-compliance-pt1-Gloria-Iseghehi.md",
       "governance-compliance-pt1-Idowu-Abdulganeey-template.md",
       "governance-compliance-pt1-Mathias Eleluwor-template.md",
       "governance-compliance-pt1-Okeke-Marycynthia.md",
+      "governance-compliance-pt1-eneh-kosisochukwu.md",
       "governance-compliance-pt1-george-ukato.md.md",
+      "governance-compliance-pt1-ikechukwu-ezeonu.md",
+      "governance-compliance-pt1-iniobong-johnson.md",
       "governance-compliance-pt1-iperepolu-ebenezery.md.md",
       "governance-compliance-pt1-michael-onwumere.md",
-      "governance-compliance-pt1-promise-ibediogwu-ekele.md"
+      "governance-compliance-pt1-promise-ibediogwu-ekele.md",
+      "governance-compliance-pt1-taiwo-durodola-tunde.md"
     ]
   },
   {
@@ -212,9 +225,12 @@
       "Security-Governance-&-Regulatory-Compliance-part2-Abiola-Habeeb.md",
       "governance-compliance-pt2-Dare-Ademola.md",
       "governance-compliance-pt2-Elu-Emmanuel.md",
+      "governance-compliance-pt2-Emunefe Saturday.md",
+      "governance-compliance-pt2-Marycynthia Okeke-template.md",
       "governance-compliance-pt2-Mathias.Eleluwor.md",
       "governance-compliance-pt2-Oduola Ifeoluwa.md",
       "governance-compliance-pt2-george-ukato.md.md",
+      "governance-compliance-pt2-ikechukwu-ezeonu.md",
       "governance-compliance-pt2-michael-onwumere.md",
       "governance-compliance-pt2-promise-ibediogwu-ekele.md"
     ]
@@ -240,6 +256,7 @@
     "status": "upcoming",
     "submissions": [
       "azure-sql-security-promise-ibediogwu-ekele.md"
+      "azure-sql-security-michael-onwumere.md"
     ]
   },
   {
@@ -250,6 +267,7 @@
     "status": "upcoming",
     "submissions": [
       "network-security-pt1-promise-ibediogwu-ekele.md"
+      "network-security-pt1-Oduola Ifeoluwa.md"
     ]
   },
   {

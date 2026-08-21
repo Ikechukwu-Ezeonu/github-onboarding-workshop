@@ -1,0 +1,52 @@
+# My Notes — [TIMOTHY ABRAHAM}
+Write the main ideas covered in today's session -->
+
+-Ways Microsoft Entra helps secure access such as:
+Identity and Authentication
+Multi-factor Authentication
+Conditional Access Policy
+Privileged Identity Management
+Monitoring and Auditing-
+-
+
+---
+
+## Lab / Hands-On Work
+
+<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+
+### What I did
+
+In the lab,I opened Micrososft Entra and set  up conditional access policy and the privileged identity management
+### What happened / Result
+I was able to set MFA  and identity protection to prevent bad actors from hacking into the organization database.
+
+### Challenges I faced
+
+I struugled to download the template on my mobile device because it doesnt support it until I activated Github on my laptop.
+---
+
+## My Takeaways
+Identity is the new parameter.And Microsoft Entra verifies identity of users before granting access.
+
+<!-- What was most valuable to you personally from this session? -->
+
+The valuable lesson is that technology is moving from the traditional password setting  to modern passwordless authentication.Besides,Microsoft Entra enables  protection of users through MFA,Conditional Access Policy and Privileged  Identity Management.
+## Questions I Still Have
+
+<!-- Anything you want to follow up on or ask the mentor -->
+
+-
+-The mentor should provide platform for us to practice.
+
+---
+
+## Resources I Found Useful
+
+<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
+
+-Microsoft Learn
+
+---
+
+*Submitted by: [Timothy Abraham}[abtim86-cloud]*
